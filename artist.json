@@ -41,5 +41,48 @@
     "image": "https://m.media-amazon.com/images/I/61z6U6zMg+L._SS500_.jpg",
     "clip": "",
     "youTube": ""
-  }
+  },
+    "number6": {
+        "artist": "Calvin Harris & Rag’n’Bone Man",
+        "song": "Giant",
+        "album": "Giant",
+        "image": "https://m.media-amazon.com/images/I/8165wHuP3vL._SS500_.jpg",
+        "clip": "",
+        "youTube": "https://www.youtube.com/watch?reload=9&v=U9Im71aNhYA"
+    },
+
+    "number7": {
+        "artist": "Post Malone",
+        "song": "Wow",
+        "album": "Wow",
+        "image": "https://m.media-amazon.com/images/I/71S1x3pkyVL._SS500_.jpg",
+        "clip": "",
+        "youTube": "https://www.youtube.com/watch?v=D0i23wZ0IeE"
+    },
+
+    "number8": {
+        "artist": "Ariana Grande",
+        "song": "Needy",
+        "album": "thank u, next",
+        "image": "https://m.media-amazon.com/images/I/719jyhzY77L._SS500_.jpg",
+        "clip": "",
+        "youTube": "https://www.youtube.com/watch?v=Km__cJEJ3JI"
+    },
+
+    "number9": {
+        "artist": "Mark Ronson",
+        "song": "Nothing Breaks Like A Heart",
+        "album": "Nothing Breaks Like A Heart",
+        "image": "https://m.media-amazon.com/images/I/81m-GoXbVWL._SS500_.jpg",
+        "clip": "",
+        "youTube": "https://www.youtube.com/watch?v=A9hcJgtnm6Q"
+    },
+    "number10": {
+        "artist": "Billie Eilish",
+        "song": "bury a friend",
+        "album": "When we fall asleep, where do we go?",
+        "image": "https://m.media-amazon.com/images/I/61e23dfEOBL._SS500_.jpg",
+        "clip": "",
+        "youTube": "https://www.youtube.com/watch?v=HUHC9tYz8ik"
+    }
 }
