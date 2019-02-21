@@ -14,6 +14,18 @@ app.get("/", (req, res) => {
   });
 });
 
+app.get("/artist/:number", function(req, res) {
+  let number = req.params.number;
+  fs.readFile("./artist.json", "utf8", (err, artistData) => {
+    if (err) {
+      res.json({ message: "WRONG! Go back" });
+    }
+    let library = JSON.parse(artistData);
+    res.json(library[number]);
+  });
+  console.log(number);
+});
+
 app.listen(PORT, () => {
   console.log(`I am listening on port ${PORT}`);
 });

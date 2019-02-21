@@ -1,5 +1,5 @@
 {
-  "number1": {
+  "1": {
     "artist": "Ariana Grande",
     "song": "Break Up With Your Girlfriend I'm Bored",
     "album": "thank u, next",
@@ -8,7 +8,7 @@
     "youTube": "https://www.youtube.com/watch?v=LH4Y1ZUUx2g"
   },
 
-  "number2": {
+  "2": {
     "artist": "Ariana Grande",
     "song": "7 Rings",
     "album": "Wow.",
@@ -17,7 +17,7 @@
     "youTube": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
   },
 
-  "number3": {
+  "3": {
     "artist": "Lewis Capaldi",
     "song": "Someone You Loved",
     "album": "Breach",
@@ -25,7 +25,7 @@
     "clip": "",
     "youTube": "https://www.youtube.com/watch?v=bCuhuePlP8o"
   },
-  "number4": {
+  "4": {
     "artist": "Sam Smith & Normani",
     "song": "Dancing With A Stranger",
     "album": "Dancing With A Stranger",
@@ -34,7 +34,7 @@
     "youTube": "https://www.youtube.com/watch?v=av5JD1dfj_c"
   },
 
-  "number5": {
+  "5": {
     "artist": "Don't Call Me Up",
     "song": "Mable",
     "album": "When We Fall Asleep, Where Do We Go?",
@@ -51,7 +51,16 @@
     "youTube": "https://www.youtube.com/watch?reload=9&v=U9Im71aNhYA"
   },
 
-  "number7": {
+  "6": {
+    "artist": "Calvin Harris & Rag’n’Bone Man",
+    "song": "Giant",
+    "album": "Giant",
+    "image": "https://m.media-amazon.com/images/I/8165wHuP3vL._SS500_.jpg",
+    "clip": "",
+    "youTube": "https://www.youtube.com/watch?reload=9&v=U9Im71aNhYA"
+  },
+
+  "7": {
     "artist": "Post Malone",
     "song": "Wow",
     "album": "Wow",
@@ -60,7 +69,9 @@
     "youTube": "https://www.youtube.com/watch?v=D0i23wZ0IeE"
   },
 
-  "number8": {
+
+  "8": {
+
     "artist": "Ariana Grande",
     "song": "Needy",
     "album": "thank u, next",
@@ -69,7 +80,8 @@
     "youTube": "https://www.youtube.com/watch?v=Km__cJEJ3JI"
   },
 
-  "number9": {
+  "9": {
+
     "artist": "Mark Ronson",
     "song": "Nothing Breaks Like A Heart",
     "album": "Nothing Breaks Like A Heart",
@@ -77,7 +89,9 @@
     "clip": "",
     "youTube": "https://www.youtube.com/watch?v=A9hcJgtnm6Q"
   },
-  "number10": {
+
+  "10": {
+
     "artist": "Billie Eilish",
     "song": "bury a friend",
     "album": "When we fall asleep, where do we go?",
