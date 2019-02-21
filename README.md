@@ -4,7 +4,7 @@
 
 We've made an API that can get information based on the Top 10 Singles chart.
 You can get info on which artist is at which position, which album and contains
-an image related to the artist/album.
+an image related to the artist/album and a link to the youtube video.
 
 You can access the whole Top 10 by using **https://localhost:3500**
 
