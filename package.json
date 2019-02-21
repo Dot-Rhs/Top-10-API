@@ -1,0 +1,27 @@
+{
+  "name": "projectapi",
+  "version": "1.0.0",
+  "description": "bla ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dot-Rhs/Top-10-API.git"
+  },
+  "keywords": [
+    "argh"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dot-Rhs/Top-10-API/issues"
+  },
+  "homepage": "https://github.com/Dot-Rhs/Top-10-API#readme"
+}

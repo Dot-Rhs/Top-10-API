@@ -1,6 +1,6 @@
 const express = require("express"); // this imports something, in this case express.
 const fs = require("fs");
-const PORT = 3000;
+const PORT = 3500;
 
 const app = express();
 
@@ -15,5 +15,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log("I am listening on port 3000");
+  console.log(`I am listening on port ${PORT}`);
 });
