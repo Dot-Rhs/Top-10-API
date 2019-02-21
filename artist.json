@@ -1,0 +1,45 @@
+{
+  "number1": {
+    "artist": "Ariana Grande",
+    "song": "Break Up With Your Girlfriend I'm Bored",
+    "album": "thank u, next",
+    "image": "https://m.media-amazon.com/images/I/719jyhzY77L._SS500_.jpg",
+    "clip": "",
+    "youTube": ""
+  },
+
+  "number2": {
+    "artist": "Ariana Grande",
+    "song": "7 Rings",
+    "album": "Wow.",
+    "image": "https://m.media-amazon.com/images/I/61-TdE6oxVL._SS500_.jpg",
+    "clip": "",
+    "youTube": ""
+  },
+
+  "number3": {
+    "artist": "Lewis Capaldi",
+    "song": "Someone You Loved",
+    "album": "Breach",
+    "image": "https://m.media-amazon.com/images/I/71w7GcgaijL._SS500_.jpg",
+    "clip": "",
+    "youTube": ""
+  },
+  "number4": {
+    "artist": "Sam Smith & Normani",
+    "song": "Dancing With A Stranger",
+    "album": "Dancing With A Stranger",
+    "image": "https://m.media-amazon.com/images/I/61z6U6zMg+L._SS500_.jpg",
+    "clip": "",
+    "youTube": ""
+  },
+
+  "number5": {
+    "artist": "Don't Call Me Up",
+    "song": "Mable",
+    "album": "When We Fall Asleep, Where Do We Go?",
+    "image": "https://m.media-amazon.com/images/I/61z6U6zMg+L._SS500_.jpg",
+    "clip": "",
+    "youTube": ""
+  }
+}
