@@ -5,7 +5,7 @@
     "album": "thank u, next",
     "image": "https://m.media-amazon.com/images/I/719jyhzY77L._SS500_.jpg",
     "clip": "",
-    "youTube": ""
+    "youTube": "https://www.youtube.com/watch?v=LH4Y1ZUUx2g"
   },
 
   "2": {
@@ -14,7 +14,7 @@
     "album": "Wow.",
     "image": "https://m.media-amazon.com/images/I/61-TdE6oxVL._SS500_.jpg",
     "clip": "",
-    "youTube": ""
+    "youTube": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
   },
 
   "3": {
@@ -23,7 +23,7 @@
     "album": "Breach",
     "image": "https://m.media-amazon.com/images/I/71w7GcgaijL._SS500_.jpg",
     "clip": "",
-    "youTube": ""
+    "youTube": "https://www.youtube.com/watch?v=bCuhuePlP8o"
   },
   "4": {
     "artist": "Sam Smith & Normani",
@@ -31,7 +31,7 @@
     "album": "Dancing With A Stranger",
     "image": "https://m.media-amazon.com/images/I/61z6U6zMg+L._SS500_.jpg",
     "clip": "",
-    "youTube": ""
+    "youTube": "https://www.youtube.com/watch?v=av5JD1dfj_c"
   },
 
   "5": {
@@ -40,8 +40,17 @@
     "album": "When We Fall Asleep, Where Do We Go?",
     "image": "https://m.media-amazon.com/images/I/61z6U6zMg+L._SS500_.jpg",
     "clip": "",
-    "youTube": ""
+    "youTube": "https://www.youtube.com/watch?v=9TQKyDD9Yig"
   },
+  "number6": {
+    "artist": "Calvin Harris & Rag’n’Bone Man",
+    "song": "Giant",
+    "album": "Giant",
+    "image": "https://m.media-amazon.com/images/I/8165wHuP3vL._SS500_.jpg",
+    "clip": "",
+    "youTube": "https://www.youtube.com/watch?reload=9&v=U9Im71aNhYA"
+  },
+
   "6": {
     "artist": "Calvin Harris & Rag’n’Bone Man",
     "song": "Giant",
@@ -60,7 +69,9 @@
     "youTube": "https://www.youtube.com/watch?v=D0i23wZ0IeE"
   },
 
+
   "8": {
+
     "artist": "Ariana Grande",
     "song": "Needy",
     "album": "thank u, next",
@@ -70,6 +81,7 @@
   },
 
   "9": {
+
     "artist": "Mark Ronson",
     "song": "Nothing Breaks Like A Heart",
     "album": "Nothing Breaks Like A Heart",
@@ -77,7 +89,9 @@
     "clip": "",
     "youTube": "https://www.youtube.com/watch?v=A9hcJgtnm6Q"
   },
+
   "10": {
+
     "artist": "Billie Eilish",
     "song": "bury a friend",
     "album": "When we fall asleep, where do we go?",
